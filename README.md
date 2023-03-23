@@ -1,2 +1,1 @@
-# DeepLearningStudy
- nlp study 
+# Ai repo
